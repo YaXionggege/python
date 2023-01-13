@@ -1,0 +1,4 @@
+var = 'hello_world!'
+print(var)
+var = 'hello_python!'
+print(var)
