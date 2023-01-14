@@ -1,0 +1,2 @@
+fav_nub = 0
+print('我最喜欢的数字是：' + str(fav_nub) +'!')
