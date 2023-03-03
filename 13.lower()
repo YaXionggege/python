@@ -1,2 +1,2 @@
 str = "HELLO WORLD!"
-print (str.low())
+print (str.lower())
