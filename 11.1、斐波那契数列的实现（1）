@@ -1,6 +1,0 @@
-def fibs(bit):           # fibs numbers function
-     before, after = 0, 1
-     for i in range(bit):
-         print(before)
-         before, after = after, before + after
- fibs(10)
