@@ -1,0 +1,2 @@
+str = chr(0xf05B)
+print (str*10)
