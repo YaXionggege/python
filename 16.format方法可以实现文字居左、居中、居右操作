@@ -1,0 +1,3 @@
+print(format(＇明日','*＞20'))
+print(format(＇明日','*＜20'))
+print(format(＇明日','*＾20'))
