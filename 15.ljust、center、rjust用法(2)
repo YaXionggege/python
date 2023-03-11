@@ -1,0 +1,4 @@
+print(“hello world!”.ljust(20,'*'))   # “hello world!” 两个单词加右侧18个“*“ 共计20个字符位置
+print(“hello world!”.rjust(20,'*'))   # “hello world!” 两个单词加左侧18个“*“ 共计20个字符位置
+print(“明日”.center(20,'*'))          #“hello world!” 两个单词加两侧各9个“*“ 共计20个字符位置
+print("|"+"hello world".ljust(10,'+')+"|"+"hello world!".rjust(10,'+')+"|"+"hello world!".center(10,'+')+"|") 
